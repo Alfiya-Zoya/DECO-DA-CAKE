@@ -1,0 +1,169 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+/* body {
+  width: 200px;
+  background: url('frame-7.png') no-repeat center center cover;
+  
+} */
+div .frame-8-1k7::before{
+    background: url('contact-us-page-desktop.png');
+    position: absolute;
+    /* z-index: -1; */
+    top: 0px;
+    left: 0px;
+
+}
+
+.btn1{
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin: 28px;
+  padding: 12px;
+
+}
+.frame-8-1k7 {
+  box-sizing: border-box;
+  padding: 13.1rem 11.9rem 15.7rem 11.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.frame-8-1k7 .auto-group-kixu-3wh {
+  box-sizing: border-box;
+  padding: 3.05rem 4.5rem 10.7rem 4.5rem;
+  width: 49.8rem;
+  height: 73.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-kixu-3wh .log-in-Jm9 {
+  margin: 0rem 2.7rem 2.75rem 0rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #121311;
+  font-family: Judson, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-kixu-3wh .auto-group-rhpq-YvP {
+  margin-bottom: 4.5rem;
+  box-sizing: border-box;
+  padding: 2rem 1.7rem 3.3rem 1.7rem;
+  width: 100%;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-kixu-3wh .auto-group-v1fr-ZqV {
+  margin-bottom: 5.3rem;
+  box-sizing: border-box;
+  padding: 2.4rem 1.7rem 2.5rem 1.7rem;
+  width: 100%;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-kixu-3wh .auto-group-qy9z-ERq {
+  margin-bottom: 12.2rem;
+  box-sizing: border-box;
+  padding: 2.65rem 1.7rem 2.75rem 1.7rem;
+  width: 100%;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-kixu-3wh .auto-group-3hn3-uXy {
+  margin: 0 12.6rem;
+  width: calc(100% - 25.2rem);
+  height: 5.3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3225;
+  color: #000000;
+  font-family: Red Hat Display, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #f5f5f5;
+  flex-shrink: 0;
+}
+.frame-8-1k7 .auto-group-18dz-LtB {
+  width: 70.5rem;
+  height: 73.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+input {
+    border: none;
+    width: 200px;
+    height: 30px;
+    margin: 2px -4px;
+    padding: 5px 21px;
+    background-color: whitesmoke;
+    font-size: x-large;
+}
+.frame-8-1k7 .auto-group-18dz-LtB .frame-6-UjV {
+  width: 70.5rem;
+  height: 72.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-8-1k7 .auto-group-18dz-LtB .frame-7-1UX {
+  width: 70.5rem;
+  height: 73.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
